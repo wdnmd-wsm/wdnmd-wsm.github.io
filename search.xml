@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>my first blog</title>
-      <link href="/2022/04/12/my-first-blog/"/>
-      <url>/2022/04/12/my-first-blog/</url>
+      <title>Introduction RL</title>
+      <link href="/2022/04/12/Introduction-RL/"/>
+      <url>/2022/04/12/Introduction-RL/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>这是一个对强化学习基础知识介绍的Blog， 强化学习由环境，Agent、Policy以及Reward共同构成</p>]]></content>
       
       
       
